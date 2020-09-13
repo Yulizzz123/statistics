@@ -31,7 +31,7 @@ The following questions are answered:
 **3. Dataset**
 
 The following dataset is used in the project:
-| Characteristics | Count |
+| Characteristic | Count |
 |-----|------|
 |Columns: | 81 |
 |Rows: | 1,460 |
@@ -51,14 +51,30 @@ The following dataset is used in the project:
 \
 **6. Organization**
 
-The project adheres to the following file structure:
+The project folder contains the following files:
 
 | No. | File |
 |-----|------|
 |1. | README |
 |2. | main.ipynb |
 |3. | train.csv |
+|4. | train.11.csv |
 
+
+main.ipynb has the following the chapters:
+
+| No. | Chapter |
+|-----|------|
+| 1. || Import libraries and Load Data |
+| 2.2. | Data Wrangling |
+| 2.1 | Handling Missing Values |
+| 2.2 | Handling Different Data Type |
+| 2.2.1 | Handling Object Data Types |
+| 2.2.2 | Handling Numeric Data Types |
+| 3. | Data Relations |
+| 4. | More Complex Analysis |
+| 5. | Save New Dataset to CSV |
+    
 \
 **7. Repository**
 <Link> (https://github.com/Yulizzz123/statistics)
