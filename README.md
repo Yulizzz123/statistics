@@ -31,17 +31,15 @@ The following questions are answered:
 **3. Dataset**
 
 The following dataset is used in the project:
- 
+| Characteristics | Count |
 |-----|------|
-|Name: | <Link>(train.csv) |
 |Columns: | 81 |
 |Rows: | 1,460 |
 
 \
 **4. Database**
 
-Original Name: "House Prices: Advanced Regression Techniques" 
-<Link>(https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+"House Prices: Advanced Regression Techniques" <Link>(https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
 \
 **5. Workflow**
