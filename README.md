@@ -55,17 +55,18 @@ The project folder contains the following files:
 
 | No. | File |
 |-----|------|
-|1. | README |
-|2. | main.ipynb |
-|3. | train.csv |
-|4. | train.11.csv |
+| 1. | README |
+| 2. | Executive Summary |
+| 3. | main.ipynb |
+| 4. | train.csv |
+| 5. | train.11.csv |
 
 
 main.ipynb has the following the chapters:
 
 | No. | Chapter |
 |-----|------|
-| 1. || Import libraries and Load Data |
+| 1. | Import libraries and Load Data |
 | 2.2. | Data Wrangling |
 | 2.1 | Handling Missing Values |
 | 2.2 | Handling Different Data Type |
