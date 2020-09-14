@@ -24,6 +24,7 @@ It is based on a dataset from Ames, Iowa.
 The following questions are answered:
 
 | No. | Question |
+|-----|------|
 | 1. | Was there a trend in no. and sizes of houses sold? |
 | 2. | What characteristics did the houses sold have? |
 | 3. | What housing prices can be expected in the future? |
@@ -47,7 +48,7 @@ The following dataset is used in the project:
 
 | No. | Activity |
 |-----|------|
-| 1. | |The data was cleaned for analysis. |
+| 1. | The data was cleaned for analysis. |
 | 2. | The data was analyzed and interpreted. |
 | 3. | A trend was projected into the future. |
 
