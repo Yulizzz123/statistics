@@ -66,7 +66,7 @@ The project folder contains the following files:
 | 5. | train.11.csv |
 
 
-main.ipynb has the following the chapters:
+main.ipynb has the following chapters:
 
 | No. | Chapter |
 |-----|------|
