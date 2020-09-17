@@ -7,7 +7,7 @@
 
 *Julia Zimpel*
 
-*Full-Time Data Analytics 2020-08, Campus Berlin, 13 Sep.2020*
+*Full-Time Data Analytics 2020-08, Campus Berlin, 13 Sep. 2020*
 
 
 ## Content
